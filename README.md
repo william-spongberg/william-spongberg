@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm William Spongberg 👋
 
 - 🔭 I’m currently working on [nothofagus](https://github.com/william-spongberg/nothofagus), a **proof-of-concept social media app** with r/place-style user interaction.
 - 🌱 I’m currently studying a **Bachelor of Science** with a Major in Computing and Software Systems at the **University of Melbourne** in Australia. I'm set to graduate **June 2025**.
